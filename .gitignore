@@ -17,6 +17,7 @@
 
 examples/*/*/bpf_*
 examples/*/go.sum
+examples/*/bin/*
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
